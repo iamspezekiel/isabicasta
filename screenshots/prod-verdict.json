@@ -1,0 +1,10 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "onboardingText": "Welcome to IsabiCasta A simple way to choose when you are stuck. It is inspired by the ancient practice of casting lots — used in Scripture for decisions, dutie",
+  "homeText": "✦ IsabiCasta A quiet way to decide when you are stuck. Inspired by casting lots. H / T Flip a Coin Heads or tails ··· Cast Lots Choose among your own options Stays in this browser. Nothing you type is",
+  "coinWorkedInProd": true,
+  "ok": true
+}

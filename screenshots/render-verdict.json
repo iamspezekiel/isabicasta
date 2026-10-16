@@ -1,0 +1,67 @@
+{
+  "url": "http://127.0.0.1:8090/",
+  "desktop": {
+    "slidesVisited": [
+      "Welcome to IsabiCasta",
+      "Jonah and the sailors",
+      "The Lord and the lot",
+      "The Day of Atonement",
+      "Choosing Matthias",
+      "A tool, not a prophecy"
+    ],
+    "handTMark": [
+      "H / T",
+      "···"
+    ],
+    "coinResult": "Heads",
+    "historyLabel": "Recent activity (1)",
+    "historyShowsCoin": false,
+    "historyShowsResult": true,
+    "lotsPick": "Go out",
+    "lotsPickIsOneOfOptions": true,
+    "bodyTextLength": 186,
+    "horizontalOverflow": false,
+    "onboardingSkippedAfterReload": true
+  },
+  "mobile": {
+    "horizontalOverflow": false,
+    "scrollWidth": 390,
+    "innerWidth": 390
+  },
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [
+    "desktop: https://grok.com/grok-app-builder/extensions.js — net::ERR_ABORTED"
+  ],
+  "steps": [
+    {
+      "name": "onboarding:first",
+      "text": "Welcome to IsabiCasta A simple way to choose when you are stuck. It is inspired by the ancient practice of casting lots — used in Scripture for decisions, duties, and discovery. Skip Next"
+    },
+    {
+      "name": "home",
+      "text": "✦ IsabiCasta A quiet way to decide when you are stuck. Inspired by casting lots. H / T Flip a Coin Heads or tails ··· Cast Lots Choose among your own options Stays in this browser. Nothing you type is sent anywhere."
+    },
+    {
+      "name": "coin:result",
+      "text": "✦ IsabiCasta ← Home Flip a Coin A fair heads or tails. H T The lot has fallen on Heads Flip Again Stays in this browser. Nothing you type is sent anywhere."
+    },
+    {
+      "name": "history",
+      "text": "✦ IsabiCasta ← Home Recent activity Clear all COIN FLIP Oct 16, 02:20 AM The lot fell on Heads Stays in this browser. Nothing you type is sent anywhere."
+    },
+    {
+      "name": "lots:result",
+      "text": "✦ IsabiCasta ← Home Cast Lots One option per line. The lot chooses one. The lot has fallen on Go out Cast Again Edit Options Stays in this browser. Nothing you type is sent anywhere."
+    },
+    {
+      "name": "after-reload",
+      "text": "✦ IsabiCasta A quiet way to decide when you are stuck. Inspired by casting lots. H / T Flip a Coin Heads or tails ··· Cast Lots Choose among your own options Recent activity (2) Stays in this browser. Nothing you type is"
+    },
+    {
+      "name": "mobile:first",
+      "text": "Welcome to IsabiCasta A simple way to choose when you are stuck. It is inspired by the ancient practice of casting lots — used in Scripture for decisions, duties, and discovery. Skip Next"
+    }
+  ],
+  "ok": true
+}
