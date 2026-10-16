@@ -1,0 +1,19 @@
+{
+  "name": "IsabiCasta — Cast Lots",
+  "short_name": "IsabiCasta",
+  "description": "A browser-only tool for deciding when you are stuck, inspired by the biblical practice of casting lots.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f4ef",
+  "theme_color": "#3d5a40",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
